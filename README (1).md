@@ -85,7 +85,7 @@ A 7-day rolling average was used to smooth daily volatility and reveal the under
 
 ## 📈 Tableau Dashboard
 
-🔗 **[View Interactive Dashboard on Tableau Public](#)**
+🔗 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/energy-analysis/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 *(Replace # with your Tableau Public link after publishing)*
 
 **Dashboard includes:**
@@ -123,7 +123,7 @@ This combination of analytical skill and domain expertise reflects real-world ut
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/energy-consumption-analysis.git
+   git clone https://github.com/parulpandey0705-boop/energy-consumption-analysis.git
    ```
 
 2. Open `notebooks/energy_analysis.ipynb` in Google Colab or Jupyter Notebook
@@ -141,14 +141,14 @@ This combination of analytical skill and domain expertise reflects real-world ut
 - 🎓 B.E. Electrical Engineering, RGPV · M.E. Power Systems Engineering, RGPV
 - 📊 Minor in Business Analytics, IIT Mandi (ongoing)
 - 🏆 Google Data Analytics Certificate (Coursera)
-- 💼 Ex-Trainee Engineer, Bharat Electronics Limited
-- 🔗 [LinkedIn](#) · [Tableau Public Profile](#) · [GitHub](#)
+- 💼 Trainee Engineer, Bharat Electronics Limited
+- 🔗 [LinkedIn](linkedin.com/in/parul-pandey-75v40p167) · [Tableau Public Profile](https://public.tableau.com/views/energy-analysis/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) · [GitHub](https://github.com/parulpandey0705-boop/energy-consumption-analysis/edit/main/README%20(1).md)
 
 ---
 
 ## 📬 Contact
 
-📧 pandeyparul94@gmail.com
+📧 parulpandey0705@gmail.com
 📍 Madhya Pradesh, India
 
 ---
