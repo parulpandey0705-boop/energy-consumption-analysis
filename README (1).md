@@ -128,7 +128,7 @@ This combination of analytical skill and domain expertise reflects real-world ut
 
 2. Open `notebooks/energy_analysis.ipynb` in Google Colab or Jupyter Notebook
 
-3. Upload the dataset file when prompted (or place in `data/` folder)
+3. Upload the dataset file when prompted (or place in `https://colab.research.google.com/drive/1ak4TKA4eXUhZkD2n6o7r9WXbgcjkKtv2?usp=sharing` folder)
 
 4. Run all cells in order
 
